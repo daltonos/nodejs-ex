@@ -1,0 +1,59 @@
+.titleRow {
+    background-color:white;
+}
+
+.mainTitle {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.firstFormRow {
+    background-color:#C3D4E3;
+}
+
+.listRow {
+    background-color:#f7f7f7;
+    padding:32px;
+}
+
+.secondFormRow {
+    background-color:#C3D4E3;
+}
+
+.topIcon {
+    margin:16px;
+}
+
+.mainPicture {
+    padding:32px;
+}
+
+.mainForm {
+    padding:32px;
+}
+
+.secondaryForm {
+    padding:32px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 250px;
+    border-radius: 5px;
+    margin:8px;
+    display: inline-block;
+    position: relative;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+cardImg {
+    border-radius: 5px 5px 0 0;
+}
+
+.cardTextContainer {
+    padding: 2px 16px;
+}
